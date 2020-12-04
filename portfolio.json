@@ -15,16 +15,8 @@
     "deploy": "https://mvc-techblog.herokuapp.com/",
     "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
     },
-     {
-    "id": 3,
-    "name": "weather dashboard",
-    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
-    "github": "https://github.com/jpd61/weather-dashboard",
-    "deploy": "https://jpd61.github.io/weather-dashboard/",
-    "topics": "javascript, jQuery, html, bootstrap, moment, API"
-    },
     {
-    "id": 4,
+    "id": 3,
     "name": "have you read it?",
     "image": ".PNG",
     "github": "https://github.com/queen-stack/fullstack_technews",
@@ -32,7 +24,7 @@
     "topics": "HTML, CSS, API, MVC, MySQL, Handlebars"
       },
     {
-    "id": 5,
+    "id": 4,
     "name": "work day schedular",
     "image": "",
     "github": "https://github.com/queen-stack/05_third_party_api",
@@ -40,7 +32,7 @@
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
     },
     {
-    "id": 6,
+    "id": 5,
     "name": "taskmaster",
     "image": "",
     "github": "https://github.com/queen-stack/taskmaster_pro",
