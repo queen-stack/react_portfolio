@@ -1,0 +1,50 @@
+[
+    {
+    "id": 1,
+    "name": "Budget Tracker",
+    "image": "",
+    "github": "https://github.com/queen-stack/budget-tracker",
+    "deploy": "https://glacial-oasis-98966.herokuapp.com/",
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    },
+    {
+    "id": 2,
+    "name": "mvc tech blog",
+    "image": "",
+    "github": "https://github.com/queen-stack/mvc_techblog",
+    "deploy": "https://mvc-techblog.herokuapp.com/",
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    },
+     {
+    "id": 3,
+    "name": "weather dashboard",
+    "image": "https://github.com/jpd61/jpd-react-portfolio/raw/master/src/assets/images/weatherdashboard.PNG",
+    "github": "https://github.com/jpd61/weather-dashboard",
+    "deploy": "https://jpd61.github.io/weather-dashboard/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
+    {
+    "id": 4,
+    "name": "have you read it?",
+    "image": ".PNG",
+    "github": "https://github.com/queen-stack/fullstack_technews",
+    "deploy": "https://lit-caverns-16271.herokuapp.com/login)",
+    "topics": "HTML, CSS, API, MVC, MySQL, Handlebars"
+      },
+    {
+    "id": 5,
+    "name": "work day schedular",
+    "image": "",
+    "github": "https://github.com/queen-stack/05_third_party_api",
+    "deploy": "https://queen-stack.github.io/05_third_party_api/",
+    "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
+    },
+    {
+    "id": 6,
+    "name": "taskmaster",
+    "image": "",
+    "github": "https://github.com/queen-stack/taskmaster_pro",
+    "deploy": "https://queen-stack.github.io/taskmaster_pro/",
+    "topics": "HTML, Javascript, CSS"
+    }
+   ]
