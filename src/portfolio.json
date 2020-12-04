@@ -2,23 +2,23 @@
     {
     "id": 1,
     "name": "Budget Tracker",
-    "image": "",
+    "image": "img src={'budget_tracker.jpeg'}",
     "github": "https://github.com/queen-stack/budget-tracker",
     "deploy": "https://glacial-oasis-98966.herokuapp.com/",
-    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, nodemon, express"
+    "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, express"
     },
     {
     "id": 2,
     "name": "mvc tech blog",
-    "image": "",
+    "image": "img src={'techblog.jpeg'}",
     "github": "https://github.com/queen-stack/mvc_techblog",
     "deploy": "https://mvc-techblog.herokuapp.com/",
-    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, nodemon, dotenv, handlebars-js, jest"
+    "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, dotenv, handlebars-js, jest"
     },
     {
     "id": 3,
     "name": "tech_news",
-    "image": ".PNG",
+    "image": "mg src={'techblog.jpeg'}",
     "github": "https://github.com/queen-stack/fullstack_technews",
     "deploy": "https://lit-caverns-16271.herokuapp.com/login)",
     "topics": "HTML, CSS, API, MVC, MySQL, Handlebars"
@@ -26,17 +26,17 @@
     {
     "id": 4,
     "name": "work day schedular",
-    "image": "",
+    "image": "img src={'schedular.jpeg'}",
     "github": "https://github.com/queen-stack/05_third_party_api",
     "deploy": "https://queen-stack.github.io/05_third_party_api/",
     "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
     },
     {
     "id": 5,
-    "name": "taskmaster",
-    "image": "",
+    "name": "Note Taker",
+    "image": "img src={'note_taker.jpeg'}",
     "github": "https://github.com/queen-stack/taskmaster_pro",
-    "deploy": "https://queen-stack.github.io/taskmaster_pro/",
+    "deploy": "https://dashboard.heroku.com/apps/salty-atoll-89598",
     "topics": "HTML, Javascript, CSS"
     }
    ]
