@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/jeniferqueen/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="JQueen LinkedIn"/></a>
                 </p>
                 <p>
-                 <a href="https://github.com/queen-stack/react_portfolio/blob/master/src/assets/images/Resume_Queen.pdf" className="link" download>resume</a>
+                 <a href="https://github.com/queen-stack/react_portfolio/blob/master/src/assets/Resume_Queen.pdf" className="link" download>resume</a>
                 <br></br>
                 </p>
             </div>
