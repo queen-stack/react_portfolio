@@ -7,6 +7,7 @@ function Footer() {
             <a href="https://www.linkedin.com/in/jeniferqueen/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" className="icon" /></a>
 
             <p>
+                {/* link to resume */}
                 &copy; jeniferQueen  |  <a href="https://glacial-oasis-98966.herokuapp.com/" class="link">download resume</a>  |  <a href="https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51">color palette</a>  |  made with <img id="react-icon" src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" />
             </p>
 

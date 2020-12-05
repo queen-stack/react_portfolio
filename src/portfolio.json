@@ -17,12 +17,12 @@
     },
     {
     "id": 3,
-    "name": "tech_news",
-    "image": "mg src={'techblog.jpeg'}",
-    "github": "https://github.com/queen-stack/fullstack_technews",
-    "deploy": "https://lit-caverns-16271.herokuapp.com/login)",
-    "topics": "HTML, CSS, API, MVC, MySQL, Handlebars"
-      },
+    "name": "weather dashboard",
+    "image": "https://github.com/queen-stack/server_side_api/issues/2#issue-757495315",
+    "github": "https://github.com/queen-stack/server_side_api",
+    "deploy": "https://queen-stack.github.io/server_side_api/",
+    "topics": "javascript, jQuery, html, bootstrap, moment, API"
+    },
     {
     "id": 4,
     "name": "work day schedular",
