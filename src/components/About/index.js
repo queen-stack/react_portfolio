@@ -8,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img className="mb-5" src="https://github.com/queen-stack/react_portfolio/blob/d6e6441cd3553e33c7120997467f8f9bbc17f102/src/assets/JQueen.png?raw=true" alt="Jenifer Queen"/>
+            <img className="mb-5" src="https://raw.githubusercontent.com/queen-stack/react_portfolio/master/src/assets/JQueen.png" alt="Jenifer Queen"/>
         <p>
         Thrives in high-volume environments and can navigate 
         evolving business needs, improve client experiences, 

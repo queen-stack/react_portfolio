@@ -12,7 +12,7 @@ class Header extends Component {
             <HashRouter>
                 <div className="row Header" id="header">
                     {/* need to input link to Portfolio */}
-                    <a href="https://glacial-oasis-98966.herokuapp.com/"><img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Jenifer Queen" class="icon" id="astro" /></a>
+                    <a href="https://glacial-oasis-98966.herokuapp.com/"><img src="https://img.icons8.com/color/48/000000/astronaut.png" alt="Jenifer Queen" className="icon" id="astro" /></a>
                     <Navigation />
                 </div>
 
