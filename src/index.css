@@ -67,6 +67,10 @@ h1 {
   text-shadow: 1px 1px 2px var(--onyx);
 }
 
+#navigation a[class="selected"]{
+  color: var(--purple);
+}
+
 .card {
   background-color: var(--platinum);
   border-radius: 5px;

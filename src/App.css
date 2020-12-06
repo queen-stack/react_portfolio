@@ -23,9 +23,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-a[class="selected"]{
-  color: black;
-}
 
 .App-link {
   color: #c5d2d6;
