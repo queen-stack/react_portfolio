@@ -8,7 +8,7 @@ function About() {
       
       <div className="row justify-content-center">
         <div className="col-10" id="about-section">
-            <img className="mb-5" src="https://github.com/queen-stack/react_portfolio/blob/master/public/assets/images/JQueen.png?raw=true" alt="Jenifer Queen"/>
+            <img className="mb-5" src={`${process.env.PUBLIC_URL}/assets/images/JQueen.png`} alt="Jenifer Queen"/>
         <p>
         Thrives in high-volume environments and can navigate 
         evolving business needs, improve client experiences, 
@@ -20,7 +20,7 @@ function About() {
         </p>
         <p>
             Loves to learn new technology!  
-            During COVID, successfully completed a remote course on full stack development.
+            During COVID, successfully completed a remote course on full stack web development.
         </p>
         <p>
             Download full <a href="/assets/Resume_Queen.pdf" target="_blank" className="link">resume</a>
