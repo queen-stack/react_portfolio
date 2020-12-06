@@ -1,14 +1,14 @@
 import React from 'react';
-import {NavLink} from "react-router-dom";
+import {Link} from "react-router-dom";
 
 function Navigation(props) {   
 
     return (
     <div className=" row navigation" id="navigation">
-        <NavLink to="/about">about </NavLink>
-        <NavLink to="/portfolio">portfolio </NavLink>
-        <NavLink to="/contact">contact </NavLink>
-        <NavLink to="/resume">resume</NavLink>
+        <Link to="/about" activeClassName="selected">about </Link>
+        <Link to="/portfolio" activeClassName="selected">portfolio </Link>
+        <Link to="/contact" activeClassName="selected">contact </Link>
+        <Link to="/resume" activeClassName="selected">resume </Link>
     </div>
   );
 }

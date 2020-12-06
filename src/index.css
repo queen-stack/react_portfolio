@@ -1,5 +1,5 @@
 body {
-  margin: 0;
+  margin: auto;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -14,24 +14,27 @@ code {
 
 :root {
   /* from coolers: https://coolors.co/f06543-e8e9eb-e0dfd5-313638-f09d51 */
-  --orange-soda:#43bcf0;
+  --teal:#43bcf0;
+  --secondary: #4a47f3;
   --platinum:#E8E9EB;
-  --alabaster:#E0DFD5;
+  --alabaster:#dad7c0;
   --onyx:#313638;
   --sandy-brown: #F09D51;
 }
-
 *  {
   background: var(--alabaster);
 }
 
 a {
-  background: none;
+  background: black;
+}
+a:hover {
+  background-color: rgb(255, 196, 0);
 }
 
 p {
   font-size: 18px;
-  color: var(--orange-soda);
+  color: var(--teal);
   font-weight: bold;
   background-color: var(--platinum);
   text-align: center;
@@ -57,7 +60,7 @@ h1 {
 }
 
 #navigation a {
-  color: var(--orange-soda);
+  color: var(--teal);
   padding-left: 1em;
   font-weight: bold;
   text-decoration: none;
@@ -92,7 +95,7 @@ h1 {
 .card .content {
   font-size: 18px;
   background-color: var(--platinum);
-  color: var(--orange-soda);
+  color: var(--teal);
   font-weight: bold;
   text-align: center;
 }
@@ -188,7 +191,7 @@ h1 {
 
 #footer a {
   text-decoration: none;
-  color: var(--orange-soda);
+  color: var(--teal);
 }
 
 #react-icon {

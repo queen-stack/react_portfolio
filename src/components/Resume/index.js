@@ -4,7 +4,7 @@ function Resume() {
 
 return(
 <section className="mb-5">
-    <h1 className="resume">resume: jeniferQueen</h1>
+    <h1 className="resume">resume: Jenifer Queen</h1>
         <hr></hr>
         <div className="row justify-content-center" id="resume">
             <div className="mt-5 pl-5 pr-5">
@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/jeniferqueen/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="JQueen LinkedIn"/></a>
                 </p>
                 <p>
-                 <a href="https://github.com/queen-stack/react_portfolio/blob/master/src/assets/Resume_Queen.pdf" className="link" download>resume</a>
+                 <a href="/assets/Resume_Queen.pdf" className="link" download>resume</a>
                 <br></br>
                 </p>
             </div>
