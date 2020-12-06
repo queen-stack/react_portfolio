@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "Budget Tracker",
-        "image": "assets/images/budget_tracker.png?raw=true",
+        "image": "/assets/images/budget_tracker.png?",
         "github": "https://github.com/queen-stack/budget-tracker",
         "deploy": "https://glacial-oasis-98966.herokuapp.com/",
         "topics": "javascript, pwa, indexedDB, mongoDB, mongoose, compression, morgan, express"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "mvc tech blog",
-        "image": "/assets/images/techblog.png?raw=true",
+        "image": "/assets/images/techblog.png",
         "github": "https://github.com/queen-stack/mvc_techblog",
         "deploy": "https://mvc-techblog.herokuapp.com/",
         "topics": "model-view-controller, bulma, bcrypt, express-js, mysql, sequelize, node-js, dotenv, handlebars-js, jest"
@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "weather dashboard",
-        "image": "assets/images/weather.png?raw=true",
+        "image": "/assets/images/weather.png",
         "github": "https://github.com/queen-stack/server_side_api",
         "deploy": "https://queen-stack.github.io/server_side_api/",
         "topics": "javascript, jQuery, html, bootstrap, moment, API"
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "work day schedular",
-        "image": "assets/images/scheduler.png?raw=true",
+        "image": "/assets/images/scheduler.png",
         "github": "https://github.com/queen-stack/05_third_party_api",
         "deploy": "https://queen-stack.github.io/05_third_party_api/",
         "topics": "HTML, Javascript, Bootstrap, CSS, jQuery, Moment"
@@ -34,7 +34,7 @@
     {
         "id": 5,
         "name": "Note Taker",
-        "image": "assets/images/note_taker.png?raw=true",
+        "image": "/assets/images/note_taker.png",
         "github": "https://github.com/queen-stack/taskmaster_pro",
         "deploy": "https://dashboard.heroku.com/apps/salty-atoll-89598",
         "topics": "HTML, Javascript, CSS"
@@ -42,7 +42,7 @@
     {
         "id": 6,
         "name": "smollTalk",
-        "image": "assets/images/smollTalk.png?raw=true",
+        "image": "/assets/images/smollTalk.png",
         "github": "https://github.com/queen-stack/smollTalk",
         "deploy": "https://limitless-shelf-64509.herokuapp.com/",
         "topics": "MySQL2, Express, Sequelize, Handlebars, dotenv."
