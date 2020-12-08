@@ -110,7 +110,7 @@ Launches test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more info.
 
 ## Contributing
-:octocat: [Jenifer Queen profile](https://queen-stack.github.io/profile/)
+:octocat: [Jenifer Queen profile](https://queen-stack.github.io/react_portfolio/)
 
 ## Questions
 ✉️ Contact me with any questions: [email](mailto:jenf_queen@yahoo.com) , [GitHub](https://github.com/queen-stack)<br/>

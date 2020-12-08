@@ -14,7 +14,7 @@ return(
                 <a href="https://www.linkedin.com/in/jeniferqueen/"><img src="https://img.icons8.com/color/48/000000/linkedin-2.png" alt="JQueen LinkedIn"/></a>
                 </p>
                 <p>
-                 <a href="/assets/Resume_Queen.pdf" className="link" download>resume</a>
+                <a href="/assets/Resume_Queen.pdf" target="_blank" download>resume</a>
                 <br></br>
                 </p>
             </div>
