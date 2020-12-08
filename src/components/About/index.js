@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function About() {
     return(
     <section className="title">
@@ -23,7 +24,8 @@ function About() {
             During COVID, successfully completed a remote course on full stack web development.
         </p>
         <p>
-            Download full <a href="/assets/Resume_Queen.pdf" target="_blank" className="link">resume</a>
+            
+ <a href="/assets/Resume_Queen.pdf" target="_blank" download>Click to download full resume</a>
     </p>
       </div>  
       </div>
