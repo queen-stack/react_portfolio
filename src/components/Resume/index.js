@@ -16,7 +16,7 @@ return(
                 <p>
                 <a href="/assets/Resume_Queen.pdf" target="_blank" download>resume</a>
                 <br></br>
-                </p>
+                </p>z
             </div>
         </div>
 
