@@ -8,7 +8,7 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://queen-stack.github.io/react_portfolio/)**
+**[Deployed Application](http://queen-stack.github.io/react_portfolio/)**
   
 💻 Below is a screenshot of the application:
   
