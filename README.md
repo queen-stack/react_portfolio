@@ -8,7 +8,7 @@
 
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
-**[Deployed Application](https://git.heroku.com/radiant-sierra-82793.git)**
+**[Deployed Application](https://radiant-sierra-82793.herokuapp.com/about)**
   
 💻 Below is a screenshot of the application:
   
