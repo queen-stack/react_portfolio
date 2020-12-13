@@ -5,7 +5,6 @@
 </p>
    
 ## Description
-
 🔍 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Personal full stack development portfolio.
 
 **[Deployed Application](https://radiant-sierra-82793.herokuapp.com/about)**
